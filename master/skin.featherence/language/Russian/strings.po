@@ -3,15 +3,15 @@ msgstr ""
 
 msgctxt "#31000"
 msgid "Choose a default lyrics addon."
-msgstr "בחר הרחבה ברירת מחדל למילים לשירים."
+msgstr "Выберите по умолчанию текст дополнения."
 
 msgctxt "#31001"
 msgid "Featherence rating method"
-msgstr "Featherence שיטת דירוג"
+msgstr "Рейтинговый метод Featherence"
 
 msgctxt "#31002"
 msgid "Enable this feature in order to have a better rating system for movies, tvshows and youtube videos.[CR][COLOR=red]If disabled the rating will be as you 're familiar with, Movies and Tvshows rating will most likely be always above 2.5 stars.[/COLOR]"
-msgstr "הפעל אפשרות זאת בכדי לכפות דירוג סרטים / סדרות / סרטונים(יו-טיוב) בתצורה מיטבית.[CR][COLOR=red]אם אפשרות זו מבוטלת... דירוג סרטים / סדרות יהיה בהכרח תמיד גבוהה מ-2.5 כוכבים.[/COLOR]"
+msgstr "Включите эту функцию для того чтобы иметь лучшую систему рейтинга для фильмов, телевизионных шоу и ютуб видео.[CR][COLOR=red]Если эта функция отключена рейтинг будет как вы уже знакомы с ним, фильмамны и телепередачны рейтинг скорее всего будет всегда выше 2.5 звезд.[/COLOR]"
 
 msgctxt "#31003"
 msgid "Save/Load"
